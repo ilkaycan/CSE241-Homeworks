@@ -1,0 +1,62 @@
+<svg version="1.1" 
+baseProfile="full"
+width="425" height="400"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" stroke="black" stroke-width="1" fill="blue" />
+<polygon points="50,0 0,86.6025 100,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="150,0 100,86.6025 200,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="250,0 200,86.6025 300,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="350,0 300,86.6025 400,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="50,86.6025 0,173.205 100,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="150,86.6025 100,173.205 200,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="250,86.6025 200,173.205 300,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="350,86.6025 300,173.205 400,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="50,173.205 0,259.808 100,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="150,173.205 100,259.808 200,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="250,173.205 200,259.808 300,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="350,173.205 300,259.808 400,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="50,259.808 0,346.41 100,346.41 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="150,259.808 100,346.41 200,346.41 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="250,259.808 200,346.41 300,346.41 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="350,259.808 300,346.41 400,346.41 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="100,86.6025 50,0 150,0 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="200,86.6025 150,0 250,0 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="300,86.6025 250,0 350,0 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="100,173.205 50,86.6025 150,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="200,173.205 150,86.6025 250,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="300,173.205 250,86.6025 350,86.6025 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="100,259.808 50,173.205 150,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="200,259.808 150,173.205 250,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="300,259.808 250,173.205 350,173.205 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="100,346.41 50,259.808 150,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="200,346.41 150,259.808 250,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+<polygon points="300,346.41 250,259.808 350,259.808 "
+stroke="black" stroke-width="1" fill="purple" />
+</svg>

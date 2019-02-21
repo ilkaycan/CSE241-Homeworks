@@ -1,0 +1,67 @@
+<svg version="1.1" 
+baseProfile="full"
+width="600" height="600"
+xmlns="http://www.w3.org/2000/svg">
+<circle cx="300" cy="300" r="300" stroke="black" stroke-width="1" fill="blue" />
+<circle cx="175" cy="62" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="237" cy="62" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="299" cy="62" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="361" cy="62" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="423" cy="62" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="97" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="159" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="221" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="283" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="345" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="407" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="469" cy="124" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="57" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="119" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="181" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="243" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="305" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="367" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="429" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="491" cy="186" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="37" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="99" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="161" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="223" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="285" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="347" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="409" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="471" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="533" cy="248" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="32" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="94" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="156" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="218" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="280" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="342" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="404" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="466" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="528" cy="310" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="41" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="103" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="165" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="227" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="289" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="351" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="413" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="475" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="537" cy="372" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="67" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="129" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="191" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="253" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="315" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="377" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="439" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="501" cy="434" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="116" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="178" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="240" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="302" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="364" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="426" cy="496" r="31" stroke="black" stroke-width="1" fill="purple" />
+</svg>

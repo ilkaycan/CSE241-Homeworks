@@ -1,0 +1,13 @@
+<svg version="1.1" 
+baseProfile="full"
+width="454" height="454"
+xmlns="http://www.w3.org/2000/svg">
+<polygon points="227,0 0,393.176 454,393.176"
+stroke="black" stroke-width="1" fill="blue" />
+<circle cx="227" cy="112" r="56" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="171" cy="208.995" r="56" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="283" cy="208.995" r="56" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="115" cy="305.99" r="56" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="227" cy="305.99" r="56" stroke="black" stroke-width="1" fill="purple" />
+<circle cx="339" cy="305.99" r="56" stroke="black" stroke-width="1" fill="purple" />
+</svg>
